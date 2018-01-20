@@ -1,0 +1,22 @@
+{
+  "name": "stories-tracker",
+  "version": "2.0.0",
+  "description": "",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git@bitlab.cas.msu.edu:stories-tracker"
+  },
+  "author": "Nicholas Gilreath",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.11",
+    "mysql": "^2.11.1",
+    "pm2": "^2.9.1",
+    "shipit-deploy": "^2.5.1",
+    "shipit-npm": "^0.2.0"
+  }
+}
